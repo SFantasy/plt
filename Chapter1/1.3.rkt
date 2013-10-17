@@ -1,0 +1,11 @@
+(define (sum-of-larger a b c)
+  (if (> a b) 
+        (if (> b c) 
+            (+ a b)
+            (+ a c))
+        (if (> a c)
+            (+ a b)
+            (+ b c))))
+
+(sum-of-larger 1 2 3)
+(sum-of-larger 3 5 2)
