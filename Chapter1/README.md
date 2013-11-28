@@ -1,4 +1,4 @@
-SICP Chapter 1
+Chapter 1 构造抽象过程
 ---
 
 ## 1.1 程序设计的基本元素
