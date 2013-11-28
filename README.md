@@ -13,9 +13,9 @@ Follow these [instruction](http://www.neilvandyke.org/racket-sicp/) to complete 
 
 ## Note
 
-Recently, I use [GitHub WIKI](https://github.com/SFantasy/SICP/wiki) to make notes about the book.
+Recently, I use markdown to make notes about the book which are in the Chapter* folders. 
 
-Feel free to read and be careful to edit them.
+(see the README file in each folder)
 
 ## MindMap
 
