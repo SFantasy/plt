@@ -19,4 +19,4 @@ Recently, I use markdown to make notes about the book which are in the Chapter* 
 
 ## License
 
-The MIT License
+The [MIT](LICENSE) License
