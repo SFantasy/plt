@@ -1,12 +1,12 @@
-plt-learning
----
+# Programming Language Theory
 
-A repo for learning Programming Language Theory, a.k.a, PLT.
+A repo for learning and discoverying Programming Language Theory, a.k.a, PLT.
 
 ## Table of Contents
 
-- [HtDP](HtDP/)
+- [How to Design Programs](HtDP/)
 - [SICP](SICP/)
+- [The Little Schemer](TLS/)
 
 ## License
 
